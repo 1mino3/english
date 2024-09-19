@@ -1,0 +1,33 @@
+@charset "UTF-8";
+
+*{
+  margin: 0;
+}
+.p{
+    position: absolute;
+    width: 700px;
+    font-size: 35px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    margin: 0, auto;
+    color: Black;
+    text-align: center;
+}
+.codigo{
+  position: relative;
+  display: inline-block;
+}
+body {
+  margin: auto;
+  background-color: black;
+}
+div{
+  
+}
+img{
+  margin: 0;
+  display: block;
+}
+
+
